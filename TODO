@@ -1,0 +1,7 @@
+Get data from API [like in previous project]
+Draw 2d map where you can click on cords to get details about village
+Create DB connection [Hibernate] and store messages (templates) etc.
+Using Selenium send message with unique code to users
+Create module to store players deffensive units
+Create module to scoreboard and send scoreboard to players
+tbc
